@@ -16,3 +16,6 @@ The important variables have been identified using VIF and random forest classif
 Multiple models such as Logistic Regression, Perceptron, SVC, Naive Bayes, Random forest
 and Neural networks have been run. The best best model has been identified and conclusions and recommendations are given accordingly.
 Please refer to the attached report.
+Packages:
+Pandas, NumPy, Scikit Learn, Matplotlib, Seaborn, IDE- Jupyter Notebook (Anaconda)
+RandomForestClassifier, StandardScaler, metrics, LogisticRegression, Perceptron, SVC, GaussianNB, MLPClassifier
