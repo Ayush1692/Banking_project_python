@@ -14,5 +14,5 @@ and if the levels exceeded 4 or more the levels are coded into numerical
 The numerical columns have been standardized. 
 The important variables have been identified using VIF and random forest classifier.
 Multiple models such as Logistic Regression, Perceptron, SVC, Naive Bayes, Random forest
-and Neural networks ahve been run. The best best model has been identified and conclusions and recommendations are given accordingly.
+and Neural networks have been run. The best best model has been identified and conclusions and recommendations are given accordingly.
 Please refer to the attached report.
